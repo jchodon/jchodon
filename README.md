@@ -9,7 +9,7 @@ Hello there! I’m a passionate self-taught web developer with a strong belief i
 ## 🌱 Currently Learning
 - Diving deep into React to craft more dynamic and interactive web applications.
 - Enhancing my understanding of Data Structures and Algorithms.
-- Immersing myself in the Korean language and culture, a journey that has been both enlightening and enjoyable. #Duolingostreak
+- Immersing myself in the Korean language, a journey that has been both enlightening and enjoyable. #Duolingostreak
 
 ## 💞️ Looking to Collaborate
 - I'm on the lookout for web development projects, especially those that aim to enhance user experiences and engagement.
