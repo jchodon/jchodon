@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello there! I’m a passionate self-taught web developer with a strong belief in lifelong learning and exploring new horizons.
+Hello there! I’m a passionate web developer with a strong belief in lifelong learning and exploring new horizons.
 
 ## 👀 About Me
 - I take great joy in coding and creating web applications that have a meaningful impact. 
