@@ -17,8 +17,7 @@ Hello there! I’m a passionate web developer with a strong belief in lifelong l
 ## 📫 Let's Connect!
 - I'm open for collaboration or just a friendly chat. Feel free to reach out to me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/jigmec/).
 
-## ⚡ Fun Fact
-- I find there is a similarity between coding and crocheting: both demand patience, precision, and a creative spirit to turn visions into reality!
+
 
 <!---
 jchodon/jchodon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
